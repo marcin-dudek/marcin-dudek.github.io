@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>DumpLinks</title>
+	<subtitle>Made by Marcin Dudek</subtitle>
+	<link href="https://marcin-dudek.github.io/dumplinks.atom" rel="self" />
+	<link href="https://marcin-dudek.github.io/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2003-12-13T18:30:02Z</updated>
+	
+	
+	<entry>
+		<title>This is main page</title>
+		<link href="https://marcin-dudek.github.io/" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+		<updated>2017-07-03T18:45:02Z</updated>
+		<summary>Main page.</summary>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Currently empty.</p>
+			</div>
+		</content>
+		<author>
+			<name>Marcin Dudek</name>
+		</author>
+	</entry>
+
+</feed>
